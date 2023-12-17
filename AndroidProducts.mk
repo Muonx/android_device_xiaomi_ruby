@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ruby.mk
+    $(LOCAL_DIR)/arrow_ruby.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ruby-user \
-    lineage_ruby-userdebug \
-    lineage_ruby-eng
+    arrow_ruby-user \
+    arrow_ruby-userdebug \
+    arrow_ruby-eng
